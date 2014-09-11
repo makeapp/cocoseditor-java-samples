@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Layer designWidth="720" designHeight="1280"
+       positionX="0"
+       positionY="0" anchorPointX="0" anchorPointY="0"
+       sizeType="Percent" width="1" height="1">
+
+    <Button positionX="240.0" positionY="672.0" textureNormal="textures/doodle.plist/menu.png"/>
+    <Button positionX="502.0" positionY="669.0" textureNormal="textures/doodle.plist/play.png"/>
+</Layer>

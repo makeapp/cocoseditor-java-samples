@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>CloseNormal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>sourceSize</key>
+			<string>{40,40}</string>
+		</dict>
+		<key>CloseSelected.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42,0},{40,40}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{40,40}}</string>
+			<key>sourceSize</key>
+			<string>{40,40}</string>
+		</dict>
+		<key>HelloWorld.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84,0},{480,320}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{480,320}}</string>
+			<key>sourceSize</key>
+			<string>{480,320}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>type</key>
+		<string>packer</string>
+		<key>realTextureFileName</key>
+		<string>main.png</string>
+		<key>size</key>
+		<string>{2048,2048}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:cfaf52eb1eb41c7531bf2d0be3f50f2e$</string>
+		<key>textureFileName</key>
+		<string>main.png</string>
+	</dict>
+</dict>
+</plist>

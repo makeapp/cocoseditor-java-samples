@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene designWidth="720" designHeight="1280"
+       positionX="0"
+       positionY="0" anchorPointX="0" anchorPointY="0"
+       sizeType="Percent" width="1" height="1">
+
+    <Layer sizeType="Percent" width="1" height="1" anchorPointX="0" anchorPointY="0" visible="true">
+        <Sprite texture="textures/bg1.png" anchorPointX="0" anchorPointY="0">
+            <Button positionX="557.5" positionY="562.5" textureNormal="textures/doodle.plist/play.png" name="playBtn"/>
+            <Sprite texture="textures/doodle.plist/loading_1.png" positionX="380.0" positionY="675.0"
+                    name="loadingSprite"/>
+            <Sprite texture="textures/doodle.plist/tuya.png" positionX="110.0" positionY="285.0" name="doodleSprite"/>
+        </Sprite>
+
+        <Component name="org.ccj.game.doodle.LoadingController"/>
+    </Layer>
+</Scene>

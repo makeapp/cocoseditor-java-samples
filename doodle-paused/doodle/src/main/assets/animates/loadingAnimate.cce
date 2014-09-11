@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Animation name="loadingAnimation" loop="-1" unitTime="0.3">
+    <KeyFrame texture="textures/doodle.plist/loading_1.png"/>
+    <KeyFrame texture="textures/doodle.plist/loading_2.png"/>
+    <KeyFrame texture="textures/doodle.plist/loading_3.png"/>
+    <KeyFrame texture="textures/doodle.plist/loading_4.png"/>
+</Animation>

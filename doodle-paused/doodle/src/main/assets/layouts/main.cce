@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene designWidth="720" designHeight="1280"
+       positionX="0"
+       positionY="0" anchorPointX="0" anchorPointY="0"
+       sizeType="Percent" width="1" height="1">
+    <Layer anchorPointX="0" anchorPointY="0" sizeType="Percent" width="1" height="1">
+        <Component name="org.ccj.game.doodle.SceneController"/>
+        <Sprite texture="textures/bg2.png" anchorPointX="0" anchorPointY="0" scaleX="1" scaleY="1">
+            <Sprite texture="textures/doodle.plist/tuya.png" positionX="379.0" positionY="314.5" name="monsterSprite"/>
+            <Label fontSize="30" text="Doodle Jump" positionX="262.0" positionY="1084.5" color="#ffffa9ce"/>
+            <Label positionX="355.0" positionY="845.0" texture="fonts/number.fnt" text="100" scaleX="2" scaleY="2"
+                   name="scoreLabel"/>
+            <Button positionX="639.6667" positionY="1184.3334" textureNormal="textures/doodle.plist/zanting.png"
+                    scaleX="1.5" scaleY="1.5" name="pausedBtn"/>
+        </Sprite>
+    </Layer>
+</Scene>

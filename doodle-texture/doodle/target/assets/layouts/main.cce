@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene designWidth="480" designHeight="320"
+       positionX="0"
+       positionY="0" anchorPointX="0" anchorPointY="0"
+       sizeType="Percent" width="1" height="1">
+    <Layer anchorPointX="0" anchorPointY="0" sizeType="Percent" width="1" height="1">
+
+        <Sprite name="bgSprite" texture="textures/main.plist/HelloWorld.png" positionX="241.0" positionY="162.0">
+            <Button name="closeButton" positionX="441.0" positionY="284.0" textureNormal="textures/main.plist/CloseNormal.png"
+                    texturePressed="textures/main.plist/CloseSelected.png"/>
+        </Sprite>
+        <Component name="org.ccj.game.doodle.SceneController"/>
+    </Layer>
+</Scene>

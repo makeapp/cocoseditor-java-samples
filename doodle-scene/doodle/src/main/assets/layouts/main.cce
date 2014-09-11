@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene designWidth="720" designHeight="1280"
+       positionX="0"
+       positionY="0" anchorPointX="0" anchorPointY="0"
+       sizeType="Percent" width="1" height="1">
+    <Layer anchorPointX="0" anchorPointY="0" sizeType="Percent" width="1" height="1">
+        <Component name="org.ccj.game.doodle.SceneController"/>
+        <Sprite texture="textures/bg2.png" anchorPointX="0" anchorPointY="0">
+            <Sprite texture="textures/doodle.plist/tuya.png" positionX="364.5" positionY="442.0"/>
+        </Sprite>
+    </Layer>
+</Scene>
